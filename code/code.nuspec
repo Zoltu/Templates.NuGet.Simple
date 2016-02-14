@@ -6,8 +6,8 @@
 		<authors>$author$</authors>
 		<description>$description$</description>
 		<language>en-US</language>
-		<projectUrl>https://github.com/magic_company_magic/magic_github_repo_magic</projectUrl>
-		<licenseUrl>https://github.com/magic_company_magic/magic_github_repo_magic/blob/master/LICENSE</licenseUrl>
+		<projectUrl>https://github.com/magic_github_owner_magic/magic_github_repo_magic</projectUrl>
+		<licenseUrl>https://github.com/magic_github_owner_magic/magic_github_repo_magic/blob/master/LICENSE</licenseUrl>
 		<tags></tags>
 		<developmentDependency>false</developmentDependency>
 		<references>
